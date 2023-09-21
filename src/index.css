@@ -262,6 +262,7 @@ img {
 }
 .trend__img {
   object-fit: cover;
+  height: 100%;
 }
 .trend__header {
   font-size: 2rem;
