@@ -257,6 +257,7 @@ img {
 .trend__img-container {
   border-radius: 3px;
   width: 150px;
+  height: 100%;
   overflow: hidden;
 }
 .trend__img {
